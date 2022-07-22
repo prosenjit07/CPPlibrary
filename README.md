@@ -1,4 +1,4 @@
-This is my personal code library where I compiled **almost all** the important templates that you will need in CP. Most of the codes are originally written by me and some of them are collected from others sources but modified in a cleaner way.
+This is my personal code library where I compiled **almost all** the important coding concept that you will need in CP. Most of the codes are originally written by me and some of them are collected from others sources but modified in a cleaner way.
 
 It took me long period to complete the list. Maybe each line is just a line to you but to me it tells a story of the excitements I had while learning those stuffs, the sleepless but fun nights I had to seek knowledge. 
 
