@@ -5,6 +5,8 @@ It took me long period to complete the list. Maybe each line is just a line to y
 #### Why am I sharing this library?
 - Just so that your learning path becomes a bit smoother. 
 
+#Programming Notes: https://docs.google.com/document/d/1k3EoiHA76LwR5BG2JR7Vc8T9t0y_7Pe41LBXGax_L6E/edit#
+
 
 Also, you can make me happy(as in to pay me) just by giving a star to the repository.
 
