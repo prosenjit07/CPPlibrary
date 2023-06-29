@@ -1,0 +1,1 @@
+{"name":"Local: longword","url":"d:\\C++\\codeforces\\longword.cpp","tests":[{"id":1688011276882,"input":"4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis","output":"word\nl10n\ni18n\np43s"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\codeforces\\longword.cpp","group":"local","local":true}
