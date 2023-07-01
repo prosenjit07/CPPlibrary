@@ -49,11 +49,14 @@ void solve(){
 }
  
 int32_t main(){
-    int i = 1;
-    int t;
-    cin >> t;
-    while(t--){
-        solve();
-    }
-    return 0;
+    // int i = 1;
+    // int t;
+    // cin >> t;
+    // while(t--){
+    //     solve();
+    // }
+    // return 0;
+    int x=123%100;
+    cout<<x<<endl;
+    cout<< x/10;
 }
