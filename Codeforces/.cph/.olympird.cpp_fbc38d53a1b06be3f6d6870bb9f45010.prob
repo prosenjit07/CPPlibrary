@@ -1,0 +1,1 @@
+{"name":"Local: olympird","url":"d:\\C++\\Codeforces\\olympird.cpp","tests":[{"id":1688209770950,"input":"4\n2 1 1 2","output":"2\n3 5 2\n6 7 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Codeforces\\olympird.cpp","group":"local","local":true}
