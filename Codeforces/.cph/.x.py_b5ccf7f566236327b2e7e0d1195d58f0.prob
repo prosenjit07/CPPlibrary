@@ -1,0 +1,1 @@
+{"name":"Local: x","url":"d:\\C++\\Codeforces\\x.py","tests":[{"id":1688660663406,"input":"3\n3\n1 2 3\n5\n2 3 1 5 2\n4\n5 7 12 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Codeforces\\x.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: string_sliding window","url":"d:\\C++\\CP_Concepts\\string_sliding window.cpp","tests":[{"id":1688711123411,"input":"aba\nab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\string_sliding window.cpp","group":"local","local":true}
