@@ -1,0 +1,1 @@
+{"name":"Local: triplate_sum","url":"d:\\C++\\CP_Concepts\\triplate_sum.cpp","tests":[{"id":1689227326831,"input":"4\n2 3 4 5\n12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\triplate_sum.cpp","group":"local","local":true}

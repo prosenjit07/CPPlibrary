@@ -1,0 +1,1 @@
+{"name":"Local: closest_pair","url":"d:\\C++\\CP_Concepts\\closest_pair.cpp","tests":[{"id":1689222295475,"input":"4\n22 11 2 3\n16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\closest_pair.cpp","group":"local","local":true}
