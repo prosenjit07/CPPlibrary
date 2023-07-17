@@ -1,13 +1,27 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
 using namespace std;
-int main()
-{
+
+int main() {
     int n;
     cin >> n;
-    int arr[n];
-    for (int i = 1; i <= n; i++)
-    {
+
+    vector<bool> snacks(n + 1, false);
+    int missing = n; 
+
+    for (int i = 0; i < n; i++) {
+        int size;
+        cin >> size;
+        snacks[size] = true; 
+
+        while (missing > 0 && snacks[missing]==true) {// If the snack is found, then output it
+            cout << missing << " "; 
+            missing--;
+        }
+
+        cout << endl;
     }
-    for (int i = 0; i < n; i++)
-        cout << arr[i] << " ";
+
+    return 0;
 }
