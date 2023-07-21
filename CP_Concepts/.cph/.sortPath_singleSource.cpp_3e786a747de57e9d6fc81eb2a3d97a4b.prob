@@ -1,0 +1,1 @@
+{"name":"Local: sortPath_singleSource","url":"d:\\C++\\CP_Concepts\\sortPath_singleSource.cpp","tests":[{"id":1689755459652,"input":"7 6\n1 2 \n1 3\n2 4\n2 5\n3 6\n3 7\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\sortPath_singleSource.cpp","group":"local","local":true}
