@@ -1,29 +1,30 @@
-#include <iostream>
-#include <vector>
-#include <map>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
 {
-    cout<<"October 30, 2015 Friday"<<endl;
-    // int n, m;
-    // cin >> n >> m;
-    // vector<int> v;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     int x;
-    //     cin >> x;
-    //     v.push_back(x);
-    // }
-    // int ct = 0;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     if (v[i] >= v[m-1] && v[i] > 0)
-    //     {
-    //         ct++;
-    //     }
-    // }
-    // cout << ct << endl;
-    // return 0;
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cin >> n;
+        string s;
+        cin >> s;
+
+        char targetChar = '8';
+
+        size_t foundIndex = s.find(targetChar);
+
+        if (foundIndex != std::string::npos && (n- foundIndex)>=11)
+        {
+            //int x = foundIndex;
+            cout << "YES" << endl;
+        }
+        else
+        {
+            cout << "NO" << endl;
+        }
+    }
+     return 0;
 }

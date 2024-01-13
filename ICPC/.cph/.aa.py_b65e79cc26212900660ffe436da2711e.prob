@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"d:\\C++\\ICPC\\aa.py","tests":[{"id":1697193237381,"input":"3\n123011121\nW1W\nWWWWWWWWWW1222","output":"1.3 Overs 12 Runs 0 Wicket.\n0.3 Over 1 Run 2 Wickets.\n1.0 Over 5 Runs 1 Wicket."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\ICPC\\aa.py","group":"local","local":true}

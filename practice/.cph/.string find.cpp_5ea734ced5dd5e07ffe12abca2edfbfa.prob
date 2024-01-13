@@ -1,0 +1,1 @@
+{"name":"Local: string find","url":"d:\\C++\\practice\\string find.cpp","tests":[{"id":1693587304079,"input":"\"Double quoted String\"","output":""},{"id":1693587826150,"input":"'Single quoted String'","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\practice\\string find.cpp","group":"local","local":true}

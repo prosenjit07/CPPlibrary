@@ -1,0 +1,1 @@
+{"name":"Local: cont","url":"d:\\C++\\contest\\cont.cpp","tests":[{"id":1691680227633,"input":"2\n6 5\n1 7 3 4 2 13\n3 2\n1 3 4","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\contest\\cont.cpp","group":"local","local":true}

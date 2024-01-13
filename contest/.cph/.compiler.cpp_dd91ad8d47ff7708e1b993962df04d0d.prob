@@ -1,0 +1,1 @@
+{"name":"Local: compiler","url":"d:\\C++\\contest\\compiler.cpp","tests":[{"id":1695985130796,"input":"   60\n  \n  29\n  \n      31\n          \n          \n          \n          \n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\contest\\compiler.cpp","group":"local","local":true}

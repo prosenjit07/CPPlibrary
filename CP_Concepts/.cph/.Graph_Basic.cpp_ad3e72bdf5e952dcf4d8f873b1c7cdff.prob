@@ -1,0 +1,1 @@
+{"name":"Local: Graph_Basic","url":"d:\\C++\\CP_Concepts\\Graph_Basic.cpp","tests":[{"id":1696056295737,"input":"4 3\n1 2\n2 4\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\Graph_Basic.cpp","group":"local","local":true}

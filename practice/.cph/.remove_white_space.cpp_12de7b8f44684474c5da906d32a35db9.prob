@@ -1,0 +1,1 @@
+{"name":"Local: remove_white_space","url":"d:\\C++\\practice\\remove_white_space.cpp","tests":[{"id":1691883258263,"input":"int       a = 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\practice\\remove_white_space.cpp","group":"local","local":true}

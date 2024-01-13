@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\C++\\ICPC\\a.cpp","tests":[{"id":1697188832911,"input":"3\n123011121\nW1W\n111W11","output":"1.3 Overs 12 Runs 0 Wicket.\n0.3 Over 1 Run 2 Wickets.\n1.0 Over 5 Runs 1 Wicket."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\ICPC\\a.cpp","group":"local","local":true}

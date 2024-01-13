@@ -1,0 +1,1 @@
+{"name":"Local: monk_iceland","url":"d:\\C++\\Lightoj\\monk_iceland.cpp","tests":[{"id":1698431837286,"input":"2\n3 2\n1 2\n2 3\n4 4\n1 2\n2 3\n3 4\n4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Lightoj\\monk_iceland.cpp","group":"local","local":true}
