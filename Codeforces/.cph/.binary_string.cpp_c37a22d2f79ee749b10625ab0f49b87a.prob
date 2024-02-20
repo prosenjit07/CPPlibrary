@@ -1,0 +1,1 @@
+{"name":"Local: binary_string","url":"d:\\C++\\Codeforces\\binary_string.cpp","tests":[{"id":1706933790439,"input":"7\n1 3 5\n1 1 1\n3 9 3\n0 1 0\n3 1 2\n0 0 3\n2 0 0","output":"1110011110\n0011\n0110001100101011\n10\n0000111\n1111\n000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Codeforces\\binary_string.cpp","group":"local","local":true}
