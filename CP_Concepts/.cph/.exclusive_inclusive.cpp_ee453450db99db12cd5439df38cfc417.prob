@@ -1,0 +1,1 @@
+{"name":"Local: exclusive_inclusive","url":"d:\\C++\\CP_Concepts\\exclusive_inclusive.cpp","tests":[{"id":1712309746746,"input":"100\n2\n3\n5\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\CP_Concepts\\exclusive_inclusive.cpp","group":"local","local":true}
