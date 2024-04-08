@@ -1,24 +1,21 @@
-def can_sort_array(n, a):
-    while n > 0:
-        found = False
-        for i in range(n):
-            if a[i] > 0:
-                m = 1
-                while m * 2 <= n:
-                    m *= 2
-                for j in range(i, i + m):
-                    a[j] -= 1
-                found = True
-                break
-        if not found:
-            return "NO"
-        while n > 0 and a[n - 1] == 0:
-            n -= 1
+def is_progressive_square(n, c, d, arr):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 and j == 0:
+                continue
+            if i == 0:
+                if arr[i+1,j] != arr[i*n+j-1] + d:
+                    return "NO"
+            elif j == 0:
+                if arr[i*n+j] != arr[(i-1)*n+j] + c:
+                    return "NO"
+            else:
+                if arr[i*n+j] != arr[i*n+j-1] + d or arr[i*n+j] != arr[(i-1)*n+j] + c:
+                    return "NO"
     return "YES"
 
 t = int(input())
 for _ in range(t):
-    n = int(input())
-    a = list(map(int, input().split()))
-    result = can_sort_array(n, a)
-    print(result)
+    n, c, d = map(int, input().split())
+    arr = list(map(int, input().split()))
+    print(is_progressive_square(n, c, d, arr))
