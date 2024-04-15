@@ -12,7 +12,7 @@ int32_t main()
         int n, c, d;
         cin >> n >> c >> d;
         vector<int> v(n * n);
-        for (int i = 0; i < n * n; i++)
+        for (int i = 0; i < n * n; i++) 
         {
             cin >> v[i];
         }
